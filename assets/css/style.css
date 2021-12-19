@@ -1,0 +1,28 @@
+h1 {
+    text-align: center;
+    color: white;
+}
+.title {
+    font-size: 22px;
+    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    text-align: center;
+    color: white;
+}
+.samefontsize {
+    font-size: 25px;
+    color: white;
+}
+.styleFont {
+    font-size: large;
+    font-family: Arial;
+    color: white;
+}
+.bothlinks {
+    font-size: 25px;
+    font-style: italic;
+    color: white;
+}
+.fit-picture {
+    width: 250px;
+    color: white;
+}
